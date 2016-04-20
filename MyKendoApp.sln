@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyKendoApp", "MyKendoApp\MyKendoApp.csproj", "{4EED7E39-5756-4DF7-A9CE-8CC4D7A698A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyKendoRepository", "MyKendoRepository\MyKendoRepository.csproj", "{26A9B0D3-D70E-40D6-85D5-AD4216225BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyKendoBusinessLogic", "MyKendoBusinessLogic\MyKendoBusinessLogic.csproj", "{C5716F23-F3A4-47DC-A7E7-18390835A035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EED7E39-5756-4DF7-A9CE-8CC4D7A698A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EED7E39-5756-4DF7-A9CE-8CC4D7A698A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EED7E39-5756-4DF7-A9CE-8CC4D7A698A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EED7E39-5756-4DF7-A9CE-8CC4D7A698A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A9B0D3-D70E-40D6-85D5-AD4216225BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A9B0D3-D70E-40D6-85D5-AD4216225BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A9B0D3-D70E-40D6-85D5-AD4216225BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A9B0D3-D70E-40D6-85D5-AD4216225BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5716F23-F3A4-47DC-A7E7-18390835A035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5716F23-F3A4-47DC-A7E7-18390835A035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5716F23-F3A4-47DC-A7E7-18390835A035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5716F23-F3A4-47DC-A7E7-18390835A035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
